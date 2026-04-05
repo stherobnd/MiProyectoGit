@@ -1,14 +1,8 @@
 Nombre: Michael Garcia.
-Carrera: Ingeniería en Sistemas.
-Edad: 17 años.
+Carrera: IngenierÃ­a en Sistemas.
+Edad: 17 aÃ±os.
 Fecha: 04/04/2026
-Hobby: Escuchar música y jugar video juegos.
+Hobby: Escuchar mÃºsica y jugar video juegos.
 Meta profesional: progamador y crear juegos y apps.
 
 
-
-Nombre: Noé Díaz.
-carrera: Ingeniería en sistemas.
-Edad: 17 Años.
-Fecha: 05/04/2026
-Hobby: Prácticar deportes, jugar videojuegos y escuchar música.
