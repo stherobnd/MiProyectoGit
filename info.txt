@@ -4,3 +4,11 @@ Edad: 17 años.
 Fecha: 04/04/2026
 Hobby: Escuchar música y jugar video juegos.
 Meta profesional: progamador y crear juegos y apps.
+
+
+
+Nombre: Noé Díaz.
+carrera: Ingeniería en sistemas.
+Edad: 17 Años.
+Fecha: 05/04/2026
+Hobby: Prácticar deportes, jugar videojuegos y escuchar música.
