@@ -1,0 +1,6 @@
+Nombre: Noé Díaz
+Carrera: Ingeniería en Sistemas.
+Edad: 17 años.
+Fecha: 05/04/2026
+Hobby: Escuchar música, jugar video juegos y prácticar deportes.
+Meta profesional: progamador para crear juegos y apps.
